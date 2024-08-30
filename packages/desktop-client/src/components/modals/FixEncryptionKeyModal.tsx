@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { useState } from 'react';
 import { Form } from 'react-aria-components';
 
