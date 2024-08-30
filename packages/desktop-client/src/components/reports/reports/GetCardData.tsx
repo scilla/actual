@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+﻿import React, { useMemo } from 'react';
 import { ErrorBoundary } from 'react-error-boundary';
 
 import * as monthUtils from 'loot-core/src/shared/months';
