@@ -1,4 +1,4 @@
-import React, { type SVGProps } from 'react';
+﻿import React, { type SVGProps } from 'react';
 
 type PieProgressProps = {
   style?: SVGProps<SVGSVGElement>['style'];
@@ -6,6 +6,7 @@ type PieProgressProps = {
   color: string;
   backgroundColor: string;
 };
+
 export function PieProgress({
   style,
   progress,
@@ -29,7 +30,7 @@ export function PieProgress({
         strokeWidth={radius * 2}
         strokeDasharray={`${dash} ${gap}`}
         transform="rotate(-90) translate(-20)"
-      />{' '}
+      />
     </svg>
   );
 }
