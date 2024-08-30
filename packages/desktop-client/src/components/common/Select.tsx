@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react';
+﻿import { useRef, useState } from 'react';
 
 import { SvgExpandArrow } from '../../icons/v0';
 import { type CSSProperties } from '../../style';
