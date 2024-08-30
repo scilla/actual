@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { useState, useEffect } from 'react';
 import { Trans, useTranslation } from 'react-i18next';
 
