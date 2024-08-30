@@ -1,4 +1,4 @@
-import React, { useCallback, type ComponentPropsWithoutRef } from 'react';
+﻿import React, { useCallback, type ComponentPropsWithoutRef } from 'react';
 
 import { useSchedules } from 'loot-core/client/data-hooks/schedules';
 import { format } from 'loot-core/shared/months';
