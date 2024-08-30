@@ -1,4 +1,4 @@
-import React, { type HTMLProps } from 'react';
+﻿import React, { type HTMLProps } from 'react';
 
 import { type CSSProperties, styles, theme } from '../../style';
 import { Button } from '../common/Button2';
