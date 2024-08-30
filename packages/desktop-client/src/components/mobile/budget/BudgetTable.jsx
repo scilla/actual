@@ -1,4 +1,4 @@
-import React, { memo, useRef } from 'react';
+﻿import React, { memo, useRef } from 'react';
 import { useDispatch } from 'react-redux';
 
 import { AutoTextSize } from 'auto-text-size';
