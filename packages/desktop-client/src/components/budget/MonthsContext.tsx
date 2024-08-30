@@ -1,5 +1,4 @@
-// @ts-strict-ignore
-import React, { createContext, type ReactNode } from 'react';
+﻿import React, { createContext, type ReactNode } from 'react';
 
 import * as monthUtils from 'loot-core/src/shared/months';
 
