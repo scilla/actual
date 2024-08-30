@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { memo } from 'react';
 
 import { v4 as uuid } from 'uuid';
