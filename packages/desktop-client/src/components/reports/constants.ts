@@ -1,1 +1,1 @@
-export const NON_DRAGGABLE_AREA_CLASS_NAME = 'non-draggable-area';
+﻿export const NON_DRAGGABLE_AREA_CLASS_NAME = 'non-draggable-area';
