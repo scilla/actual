@@ -1,4 +1,4 @@
-import React, { type ComponentProps, useRef, useState } from 'react';
+﻿import React, { type ComponentProps, useRef, useState } from 'react';
 
 import { type AccountEntity } from 'loot-core/types/models';
 
