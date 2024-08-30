@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { SvgCalendar } from '../../icons/v2';
 import { theme } from '../../style';
