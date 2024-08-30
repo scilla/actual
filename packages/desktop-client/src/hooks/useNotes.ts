@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+﻿import { useMemo } from 'react';
 
 import { useLiveQuery } from 'loot-core/client/query-hooks';
 import { q } from 'loot-core/shared/query';
