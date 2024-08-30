@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+﻿import React, { useState } from 'react';
 
 import { rolloverBudget } from 'loot-core/client/queries';
 
