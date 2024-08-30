@@ -1,5 +1,4 @@
-// @ts-strict-ignore
-import React, { useState } from 'react';
+﻿import React, { useState } from 'react';
 
 import * as monthUtils from 'loot-core/src/shared/months';
 
