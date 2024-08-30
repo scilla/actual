@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { type CustomReportEntity } from 'loot-core/types/models/reports';
 import { type RuleConditionEntity } from 'loot-core/types/models/rule';
