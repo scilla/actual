@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { integerToCurrency } from 'loot-core/src/shared/util';
 
