@@ -1,4 +1,4 @@
-import React, { type ComponentPropsWithoutRef } from 'react';
+﻿import React, { type ComponentPropsWithoutRef } from 'react';
 
 import { useFeatureFlag } from '../../../hooks/useFeatureFlag';
 import { Menu } from '../../common/Menu';
@@ -11,6 +11,7 @@ type BudgetMenuProps = Omit<
   onSetMonthsAverage: (numberOfMonths: number) => void;
   onApplyBudgetTemplate: () => void;
 };
+
 export function BudgetMenu({
   onCopyLastMonthAverage,
   onSetMonthsAverage,
