@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import { replaceModal, syncAndDownload } from 'loot-core/src/client/actions';
