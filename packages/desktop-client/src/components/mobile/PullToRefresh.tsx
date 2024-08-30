@@ -1,4 +1,4 @@
-import React, { type ComponentProps } from 'react';
+﻿import React, { type ComponentProps } from 'react';
 import BasePullToRefresh from 'react-simple-pull-to-refresh';
 
 import { css } from 'glamor';
