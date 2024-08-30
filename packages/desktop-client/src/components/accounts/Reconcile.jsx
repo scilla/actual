@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+﻿import React, { useState } from 'react';
 
 import * as queries from 'loot-core/src/client/queries';
 import { currencyToInteger } from 'loot-core/src/shared/util';
