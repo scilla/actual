@@ -1,4 +1,4 @@
-import { runQuery } from 'loot-core/src/client/query-helpers';
+﻿import { runQuery } from 'loot-core/src/client/query-helpers';
 import { type useSpreadsheet } from 'loot-core/src/client/SpreadsheetProvider';
 import { send } from 'loot-core/src/platform/client/fetch';
 import * as monthUtils from 'loot-core/src/shared/months';
