@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "actual",
   "version": "0.0.1",
   "private": true,
@@ -18,7 +18,7 @@
     ]
   },
   "scripts": {
-    "start": "yarn start:browser",
+    "start": "next start",
     "start:desktop": "yarn rebuild-electron && npm-run-all --parallel 'start:desktop-*'",
     "start:desktop-node": "yarn workspace loot-core watch:node",
     "start:desktop-client": "yarn workspace @actual-app/web watch",
@@ -42,7 +42,9 @@
     "lint:verbose": "DEBUG=eslint:cli-engine eslint . --max-warnings 0",
     "typecheck": "yarn tsc && tsc-strict",
     "jq": "./node_modules/node-jq/bin/jq",
-    "prepare": "husky"
+    "prepare": "husky",
+    "dev": "next dev",
+    "build": "next build"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.1.0",
