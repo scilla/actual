@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect, useReducer } from 'react';
+﻿import React, { useState, useRef, useEffect, useReducer } from 'react';
 import { useHotkeys } from 'react-hotkeys-hook';
 import { Trans, useTranslation } from 'react-i18next';
 
