@@ -1,4 +1,4 @@
-# Sample Data
+﻿# Sample Data
 /data/*
 !data/.gitkeep
 /data2
