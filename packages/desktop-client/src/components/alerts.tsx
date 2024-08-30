@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { type ComponentType, type ReactNode } from 'react';
 
 import { SvgExclamationOutline, SvgInformationOutline } from '../icons/v1';
