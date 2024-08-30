@@ -1,4 +1,4 @@
-export {
+﻿export {
   convertForInsert,
   convertForUpdate,
   convertFromSelect,
