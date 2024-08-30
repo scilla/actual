@@ -1,7 +1,5 @@
-import React from 'react';
-
+﻿import React from 'react';
 import { css } from 'glamor';
-
 import { theme, type CSSProperties } from '../../style';
 
 type ToggleProps = {
