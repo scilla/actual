@@ -1,4 +1,4 @@
-import React, { useMemo, useRef, useState, type ComponentProps } from 'react';
+﻿import React, { useMemo, useRef, useState, type ComponentProps } from 'react';
 
 import * as monthUtils from 'loot-core/src/shared/months';
 import { type CategoryEntity } from 'loot-core/types/models/category';
