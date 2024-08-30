@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { theme } from '../../../../style';
 import { type Binding } from '../../../spreadsheet';
@@ -11,6 +11,7 @@ type ExpenseProgressProps = {
   current: Binding<'report-budget', 'total-spent'>;
   target: Binding<'report-budget', 'total-budgeted'>;
 };
+
 export function ExpenseProgress({ current, target }: ExpenseProgressProps) {
   let totalSpent = useReportSheetValue(current) || 0;
   const totalBudgeted = useReportSheetValue(target) || 0;
