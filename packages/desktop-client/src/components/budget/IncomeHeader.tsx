@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { Button } from '../common/Button2';
 import { View } from '../common/View';
