@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React from 'react';
 
 import { css } from 'glamor';
