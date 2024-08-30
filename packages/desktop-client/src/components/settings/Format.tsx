@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { type ReactNode } from 'react';
 
 import { numberFormats } from 'loot-core/src/shared/util';
