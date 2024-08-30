@@ -1,5 +1,4 @@
-// @ts-strict-ignore
-import React, { type ReactNode, type UIEvent, useRef } from 'react';
+﻿import React, { type ReactNode, type UIEvent, useRef } from 'react';
 
 import { type CSSProperties } from '../../style';
 import { View } from '../common/View';
