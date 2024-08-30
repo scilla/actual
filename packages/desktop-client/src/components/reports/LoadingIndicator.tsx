@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { AnimatedLoading } from '../../icons/AnimatedLoading';
 import { theme, styles } from '../../style';
