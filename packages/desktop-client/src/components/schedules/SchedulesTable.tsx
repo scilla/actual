@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { useRef, useState, useMemo, type CSSProperties } from 'react';
 
 import {
