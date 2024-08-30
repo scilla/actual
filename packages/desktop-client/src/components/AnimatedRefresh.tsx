@@ -1,5 +1,4 @@
-// @ts-strict-ignore
-import React from 'react';
+﻿import React from 'react';
 
 import { keyframes } from 'glamor';
 
