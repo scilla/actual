@@ -1,4 +1,4 @@
-import React, { type RefObject, type UIEventHandler } from 'react';
+﻿import React, { type RefObject, type UIEventHandler } from 'react';
 import { useTranslation } from 'react-i18next';
 
 import {
