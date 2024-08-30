@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import { memo } from 'react';
 
 import { type PayeeEntity } from 'loot-core/src/types/models';
