@@ -1,5 +1,4 @@
-// @ts-strict-ignore
-import React from 'react';
+﻿import React from 'react';
 import { Provider } from 'react-redux';
 
 import { createStore, combineReducers, applyMiddleware } from 'redux';
