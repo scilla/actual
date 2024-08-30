@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { rolloverBudget } from 'loot-core/src/client/queries';
 
@@ -14,6 +14,7 @@ type TotalsListProps = {
   prevMonthName: string;
   style?: CSSProperties;
 };
+
 export function TotalsList({ prevMonthName, style }: TotalsListProps) {
   const format = useFormat();
   return (
