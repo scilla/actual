@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, {
   forwardRef,
   useEffect,
@@ -32,8 +32,8 @@ import { Input } from '../common/Input';
 import { Popover } from '../common/Popover';
 import { View } from '../common/View';
 
-import DateSelectLeft from './DateSelect.left.png';
-import DateSelectRight from './DateSelect.right.png';
+import DateSelectLeft from '../../../public/DateSelect.left.png';
+import DateSelectRight from '../../../public/DateSelect.right.png';
 
 const pickerStyles = {
   '& .pika-single.actual-date-picker': {
@@ -55,10 +55,10 @@ const pickerStyles = {
     },
     // Back/forward buttons
     '& .pika-prev': {
-      backgroundImage: `url(${DateSelectLeft})`,
+      backgroundImage: `url(${DateSelectLeft.src})`,
     },
     '& .pika-next': {
-      backgroundImage: `url(${DateSelectRight})`,
+      backgroundImage: `url(${DateSelectRight.src})`,
     },
     // Day of week
     '& .pika-table th': {
