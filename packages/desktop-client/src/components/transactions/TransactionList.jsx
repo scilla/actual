@@ -1,4 +1,4 @@
-import React, { useRef, useCallback, useLayoutEffect } from 'react';
+﻿import React, { useRef, useCallback, useLayoutEffect } from 'react';
 import { useDispatch } from 'react-redux';
 
 import { pushModal } from 'loot-core/client/actions';
