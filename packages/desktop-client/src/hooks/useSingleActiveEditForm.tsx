@@ -1,5 +1,4 @@
-// @ts-strict-ignore
-import React, {
+﻿import React, {
   type ReactNode,
   createContext,
   useContext,
