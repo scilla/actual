@@ -1,4 +1,4 @@
-import React, { useEffect, useReducer, useRef, useState } from 'react';
+﻿import React, { useEffect, useReducer, useRef, useState } from 'react';
 
 import { sendCatch } from 'loot-core/src/platform/client/fetch';
 import * as monthUtils from 'loot-core/src/shared/months';
