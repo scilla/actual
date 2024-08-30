@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { useSelector } from 'react-redux';
 
 import { useReports } from 'loot-core/client/data-hooks/reports';
