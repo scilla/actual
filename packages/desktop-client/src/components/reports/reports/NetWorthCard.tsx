@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useCallback } from 'react';
+﻿import React, { useState, useMemo, useCallback } from 'react';
 import { useTranslation } from 'react-i18next';
 
 import * as monthUtils from 'loot-core/src/shared/months';
