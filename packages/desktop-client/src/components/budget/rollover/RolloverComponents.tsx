@@ -1,4 +1,4 @@
-import React, { memo, useRef, useState } from 'react';
+﻿import React, { memo, useRef, useState } from 'react';
 
 import { rolloverBudget } from 'loot-core/src/client/queries';
 import { evalArithmetic } from 'loot-core/src/shared/arithmetic';
