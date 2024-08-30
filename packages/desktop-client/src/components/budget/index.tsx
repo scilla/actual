@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { memo, useMemo, useState, useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 
