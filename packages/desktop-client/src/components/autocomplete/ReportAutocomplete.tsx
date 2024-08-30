@@ -1,4 +1,4 @@
-import React, { type ComponentProps } from 'react';
+﻿import React, { type ComponentProps } from 'react';
 
 import { useReports } from 'loot-core/client/data-hooks/reports';
 import { type CustomReportEntity } from 'loot-core/src/types/models/reports';
