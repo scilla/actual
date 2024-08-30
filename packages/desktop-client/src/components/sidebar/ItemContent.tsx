@@ -1,4 +1,4 @@
-import React, { type MouseEventHandler, type ReactNode } from 'react';
+﻿import React, { type MouseEventHandler, type ReactNode } from 'react';
 
 import { type CSSProperties } from '../../style';
 import { Link } from '../common/Link';
