@@ -1,4 +1,4 @@
-import { useResponsive } from '../../ResponsiveProvider';
+﻿import { useResponsive } from '../../ResponsiveProvider';
 import { LoadComponent } from '../util/LoadComponent';
 
 import type * as NarrowComponents from './narrow';
