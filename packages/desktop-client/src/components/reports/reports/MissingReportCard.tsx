@@ -1,4 +1,4 @@
-import React, { type ReactNode } from 'react';
+﻿import React, { type ReactNode } from 'react';
 
 import { View } from '../../common/View';
 import { ReportCard } from '../ReportCard';
