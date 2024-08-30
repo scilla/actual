@@ -1,5 +1,4 @@
-// @ts-strict-ignore
-import React, { type ComponentProps } from 'react';
+﻿import React, { type ComponentProps } from 'react';
 
 import {
   type CategoryGroupEntity,
