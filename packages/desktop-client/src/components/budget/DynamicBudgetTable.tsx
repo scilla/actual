@@ -1,5 +1,4 @@
-// @ts-strict-ignore
-import React, { useEffect, type ComponentProps } from 'react';
+﻿import React, { useEffect, type ComponentProps } from 'react';
 import { useHotkeys } from 'react-hotkeys-hook';
 import AutoSizer from 'react-virtualized-auto-sizer';
 
