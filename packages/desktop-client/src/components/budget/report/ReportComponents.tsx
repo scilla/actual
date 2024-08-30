@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { memo, useRef, useState } from 'react';
 import { Trans } from 'react-i18next';
 
