@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+﻿import React, { useState, useEffect, useRef } from 'react';
 
 import { useGlobalPref } from '../../hooks/useGlobalPref';
 import { theme } from '../../style';
