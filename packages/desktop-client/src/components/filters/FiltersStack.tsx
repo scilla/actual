@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { type TransactionFilterEntity } from 'loot-core/types/models';
 import { type RuleConditionEntity } from 'loot-core/types/models/rule';
