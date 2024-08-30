@@ -1,4 +1,4 @@
-import React, { type ComponentPropsWithoutRef } from 'react';
+﻿import React, { type ComponentPropsWithoutRef } from 'react';
 import { useTranslation } from 'react-i18next';
 
 import { reportBudget } from 'loot-core/src/client/queries';
