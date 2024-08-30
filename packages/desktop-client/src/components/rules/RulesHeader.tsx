@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { useSelectedItems, useSelectedDispatch } from '../../hooks/useSelected';
 import { SelectCell, Cell, TableHeader } from '../table';
