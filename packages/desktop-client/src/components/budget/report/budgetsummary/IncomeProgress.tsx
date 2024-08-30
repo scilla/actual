@@ -1,4 +1,4 @@
-import React, { type ComponentProps } from 'react';
+﻿import React, { type ComponentProps } from 'react';
 
 import { theme } from '../../../../style';
 import { type CellValue } from '../../../spreadsheet/CellValue';
@@ -11,6 +11,7 @@ type IncomeProgressProps = {
   current: ComponentProps<typeof CellValue>['binding'];
   target: ComponentProps<typeof CellValue>['binding'];
 };
+
 export function IncomeProgress({ current, target }: IncomeProgressProps) {
   let totalIncome = useSheetValue(current) || 0;
   const totalBudgeted = useSheetValue(target) || 0;
