@@ -1,4 +1,4 @@
-import React, { Component, useState, useEffect } from 'react';
+﻿import React, { Component, useState, useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 
 import { loadBackup, makeBackup } from 'loot-core/client/actions';
