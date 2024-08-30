@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+﻿import React, { useState } from 'react';
 
 import { type File } from 'loot-core/src/types/file';
 
