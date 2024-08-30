@@ -1,4 +1,4 @@
-import React, { memo, type RefObject, type UIEventHandler } from 'react';
+﻿import React, { memo, type RefObject, type UIEventHandler } from 'react';
 
 import {
   amountToCurrency,
