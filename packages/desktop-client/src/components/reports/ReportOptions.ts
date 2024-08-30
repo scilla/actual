@@ -1,4 +1,4 @@
-import * as monthUtils from 'loot-core/src/shared/months';
+﻿import * as monthUtils from 'loot-core/src/shared/months';
 import {
   type CustomReportEntity,
   type AccountEntity,
