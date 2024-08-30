@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState, type ComponentProps } from 'react';
+﻿import React, { useEffect, useRef, useState, type ComponentProps } from 'react';
 
 import { send } from 'loot-core/src/platform/client/fetch';
 
