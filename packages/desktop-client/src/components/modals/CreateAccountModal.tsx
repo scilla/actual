@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { useEffect, useRef, useState } from 'react';
 
 import { send } from 'loot-core/src/platform/client/fetch';
