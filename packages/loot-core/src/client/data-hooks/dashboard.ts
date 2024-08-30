@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+﻿import { useMemo } from 'react';
 
 import { q } from '../../shared/query';
 import { type Widget } from '../../types/models';
