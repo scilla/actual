@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { mapField, friendlyOp } from 'loot-core/src/shared/rules';
 
