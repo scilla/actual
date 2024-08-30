@@ -1,4 +1,4 @@
-import React, { Fragment, type ComponentProps } from 'react';
+﻿import React, { Fragment, type ComponentProps } from 'react';
 import { useTranslation } from 'react-i18next';
 
 import { theme } from '../../style/theme';
