@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+﻿import React, { useRef, useState } from 'react';
 
 import type { Theme } from 'loot-core/src/types/prefs';
 
