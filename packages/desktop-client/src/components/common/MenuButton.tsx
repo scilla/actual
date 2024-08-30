@@ -1,4 +1,4 @@
-import React, { type ComponentPropsWithoutRef, forwardRef } from 'react';
+﻿import React, { type ComponentPropsWithoutRef, forwardRef } from 'react';
 
 import { SvgDotsHorizontalTriple } from '../../icons/v1';
 
