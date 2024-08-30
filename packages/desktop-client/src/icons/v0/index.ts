@@ -1,4 +1,4 @@
-export { SvgAdd } from './Add';
+﻿export { SvgAdd } from './Add';
 export { SvgDelete } from './Delete';
 export { SvgExpandArrow } from './ExpandArrow';
 export { SvgLeftArrow2 } from './LeftArrow2';
