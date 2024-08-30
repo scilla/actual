@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { type ComponentPropsWithoutRef } from 'react';
 
 import { useFeatureFlag } from '../../hooks/useFeatureFlag';
