@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { getPayeesById } from 'loot-core/src/client/reducers/queries';
 import { describeSchedule } from 'loot-core/src/shared/schedules';
