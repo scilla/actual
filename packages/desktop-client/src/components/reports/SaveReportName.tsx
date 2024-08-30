@@ -1,4 +1,4 @@
-import React, { type RefObject, useEffect } from 'react';
+﻿import React, { type RefObject, useEffect } from 'react';
 
 import { type CustomReportEntity } from 'loot-core/types/models/reports';
 
