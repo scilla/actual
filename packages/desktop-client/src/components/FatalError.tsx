@@ -1,4 +1,4 @@
-import React, { useState, type ReactNode } from 'react';
+﻿import React, { useState, type ReactNode } from 'react';
 
 import { LazyLoadFailedError } from 'loot-core/src/shared/errors';
 
