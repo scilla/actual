@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 const template = ({ imports, interfaces, componentName, props, jsx }, { tpl }) => {
   return tpl`
 ${imports};
