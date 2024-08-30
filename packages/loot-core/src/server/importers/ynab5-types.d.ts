@@ -1,4 +1,4 @@
-/* eslint-disable import/no-unused-modules */
+﻿/* eslint-disable import/no-unused-modules */
 
 export namespace YNAB5 {
   export interface Budget {
