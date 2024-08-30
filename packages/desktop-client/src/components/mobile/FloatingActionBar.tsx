@@ -1,4 +1,4 @@
-import { type PropsWithChildren } from 'react';
+﻿import { type PropsWithChildren } from 'react';
 
 import { theme, type CSSProperties } from '../../style';
 import { View } from '../common/View';
