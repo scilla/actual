@@ -1,4 +1,4 @@
-import * as React from 'react';
+﻿import * as React from 'react';
 import type { SVGProps } from 'react';
 export const SvgHeart = (props: SVGProps<SVGSVGElement>) => (
   <svg
