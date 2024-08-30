@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { useCallback, useRef, useState } from 'react';
 import { useDispatch } from 'react-redux';
 
