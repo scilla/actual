@@ -1,4 +1,4 @@
-import { useSelector } from 'react-redux';
+﻿import { useSelector } from 'react-redux';
 
 import { type State } from 'loot-core/src/client/state-types';
 
