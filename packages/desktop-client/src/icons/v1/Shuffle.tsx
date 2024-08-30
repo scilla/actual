@@ -1,5 +1,6 @@
-import * as React from 'react';
+﻿import * as React from 'react';
 import type { SVGProps } from 'react';
+
 export const SvgShuffle = (props: SVGProps<SVGSVGElement>) => (
   <svg
     {...props}
