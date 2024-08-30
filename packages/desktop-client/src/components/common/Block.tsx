@@ -1,7 +1,5 @@
-import { type HTMLProps, type Ref } from 'react';
-
+﻿import { type HTMLProps, type Ref } from 'react';
 import { css } from 'glamor';
-
 import { type CSSProperties } from '../../style';
 
 type BlockProps = HTMLProps<HTMLDivElement> & {
