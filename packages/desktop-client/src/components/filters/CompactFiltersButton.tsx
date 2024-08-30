@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { SvgFilter } from '../../icons/v1';
 import { Button } from '../common/Button';
