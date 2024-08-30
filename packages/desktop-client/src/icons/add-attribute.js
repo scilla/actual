@@ -1,4 +1,4 @@
-const positionMethod = {
+﻿const positionMethod = {
   start: 'unshiftContainer',
   end: 'pushContainer',
 };
