@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import { type ReactNode, createContext, useContext } from 'react';
 
 import { useViewportSize } from '@react-aria/utils';
