@@ -1,4 +1,4 @@
-import React, { type ComponentPropsWithoutRef } from 'react';
+﻿import React, { type ComponentPropsWithoutRef } from 'react';
 
 import { useLocalPref } from '../../hooks/useLocalPref';
 import { type CSSProperties, theme, styles } from '../../style';
