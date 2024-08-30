@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+﻿import React, { useState, useEffect, useRef } from 'react';
 import { useSelector } from 'react-redux';
 
 import { send, listen } from 'loot-core/src/platform/client/fetch';
