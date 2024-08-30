@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { theme, styles } from '../../style';
 import { Text } from '../common/Text';
