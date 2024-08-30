@@ -1,4 +1,4 @@
-type PotentialNumber = number | string | undefined | null;
+﻿type PotentialNumber = number | string | undefined | null;
 
 export const numberFormatterTooltip = (
   value: PotentialNumber,
