@@ -1,5 +1,4 @@
-// @ts-strict-ignore
-import { useEffect, useState } from 'react';
+﻿import { useEffect, useState } from 'react';
 
 import { isNonProductionEnvironment } from 'loot-core/src/shared/environment';
 import type { Theme } from 'loot-core/src/types/prefs';
