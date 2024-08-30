@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 import { useLocation } from 'react-router-dom';
