@@ -1,4 +1,4 @@
-import { theme } from '../style';
+﻿import { theme } from '../style';
 
 import { Link } from './common/Link';
 import { View } from './common/View';
