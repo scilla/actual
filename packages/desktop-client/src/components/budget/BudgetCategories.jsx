@@ -1,4 +1,4 @@
-import React, { memo, useState, useMemo } from 'react';
+﻿import React, { memo, useState, useMemo } from 'react';
 
 import { useLocalPref } from '../../hooks/useLocalPref';
 import { theme, styles } from '../../style';
