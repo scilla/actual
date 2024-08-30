@@ -1,4 +1,4 @@
-import React, { createRef, useRef, useState } from 'react';
+﻿import React, { createRef, useRef, useState } from 'react';
 
 import { useReports } from 'loot-core/client/data-hooks/reports';
 import { send, sendCatch } from 'loot-core/src/platform/client/fetch';
