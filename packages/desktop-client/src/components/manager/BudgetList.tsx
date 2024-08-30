@@ -1,4 +1,4 @@
-import React, { useState, useRef, type CSSProperties } from 'react';
+﻿import React, { useState, useRef, type CSSProperties } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import {
