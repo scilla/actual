@@ -1,4 +1,4 @@
-export let tracer: null | ReturnType<typeof execTracer> = null;
+﻿export let tracer: null | ReturnType<typeof execTracer> = null;
 
 function timeout<T extends Promise<unknown>>(promise: T, n: number) {
   let resolve: (response: string) => void;
