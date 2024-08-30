@@ -1,4 +1,4 @@
-import { useState, type ComponentProps, type ReactNode } from 'react';
+﻿import { useState, type ComponentProps, type ReactNode } from 'react';
 
 import { type CSSProperties, theme } from '../../style';
 
@@ -13,6 +13,7 @@ type InputWithContentProps = ComponentProps<typeof Input> & {
   style?: CSSProperties;
   getStyle?: (focused: boolean) => CSSProperties;
 };
+
 export function InputWithContent({
   leftContent,
   rightContent,
