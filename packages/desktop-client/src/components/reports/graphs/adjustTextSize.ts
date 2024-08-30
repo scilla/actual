@@ -1,4 +1,4 @@
-export const adjustTextSize = ({
+﻿export const adjustTextSize = ({
   sized,
   type,
   values = 0,
