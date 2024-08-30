@@ -1,4 +1,4 @@
-export const COUNTRY_OPTIONS = [
+﻿export const COUNTRY_OPTIONS = [
   {
     id: 'AT',
     name: 'Austria',
