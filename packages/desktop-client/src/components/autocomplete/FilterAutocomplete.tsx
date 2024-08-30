@@ -1,4 +1,4 @@
-import React, { type ComponentProps } from 'react';
+﻿import React, { type ComponentProps } from 'react';
 
 import { useFilters } from 'loot-core/src/client/data-hooks/filters';
 import { type TransactionFilterEntity } from 'loot-core/types/models/transaction-filter';
