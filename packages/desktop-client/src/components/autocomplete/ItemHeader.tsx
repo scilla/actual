@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { useResponsive } from '../../ResponsiveProvider';
 import { styles, theme } from '../../style';
