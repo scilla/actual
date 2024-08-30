@@ -1,4 +1,4 @@
-import { useLocation } from 'react-router-dom';
+﻿import { useLocation } from 'react-router-dom';
 
 import * as monthUtils from 'loot-core/src/shared/months';
 
