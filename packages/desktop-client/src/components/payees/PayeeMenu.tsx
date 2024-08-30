@@ -1,4 +1,4 @@
-import { type PayeeEntity } from 'loot-core/src/types/models';
+﻿import { type PayeeEntity } from 'loot-core/src/types/models';
 
 import { SvgDelete, SvgMerge } from '../../icons/v0';
 import { SvgBookmark } from '../../icons/v1';
