@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+﻿import React, { useRef, useState } from 'react';
 import { Trans, useTranslation } from 'react-i18next';
 
 import { send, sendCatch } from 'loot-core/src/platform/client/fetch';
