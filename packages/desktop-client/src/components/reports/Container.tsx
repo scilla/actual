@@ -1,4 +1,4 @@
-import React, { useRef, type ReactNode } from 'react';
+﻿import React, { useRef, type ReactNode } from 'react';
 import AutoSizer from 'react-virtualized-auto-sizer';
 
 import { type CSSProperties } from '../../style';
@@ -12,6 +12,7 @@ type ContainerProps = {
     host: HTMLDivElement | null,
   ) => ReactNode;
 };
+
 export function Container({ style, children }: ContainerProps) {
   const portalHost = useRef<HTMLDivElement>(null);
 
