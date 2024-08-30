@@ -50,3 +50,8 @@ bundle.mobile.js.map
 
 # Local Netlify folder
 .netlify
+
+# Next.js
+.next
+next-env.d.ts
+dist
