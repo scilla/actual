@@ -1,4 +1,4 @@
-// @ts-strict-ignore
+﻿// @ts-strict-ignore
 import React, { type ComponentProps } from 'react';
 
 import { type CategoryEntity } from 'loot-core/src/types/models';
