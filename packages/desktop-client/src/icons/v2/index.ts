@@ -1,4 +1,4 @@
-export { SvgSystem } from './System';
+﻿export { SvgSystem } from './System';
 export { SvgAlertTriangle } from './AlertTriangle';
 export { SvgArrowButtonDown1 } from './ArrowButtonDown1';
 export { SvgArrowButtonLeft1 } from './ArrowButtonLeft1';
