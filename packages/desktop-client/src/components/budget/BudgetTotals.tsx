@@ -1,4 +1,4 @@
-import React, { type ComponentProps, memo, useRef, useState } from 'react';
+﻿import React, { type ComponentProps, memo, useRef, useState } from 'react';
 
 import { SvgDotsHorizontalTriple } from '../../icons/v1';
 import { theme, styles } from '../../style';
