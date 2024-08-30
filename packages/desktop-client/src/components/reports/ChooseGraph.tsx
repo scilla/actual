@@ -1,4 +1,4 @@
-import React, { type UIEvent, useRef } from 'react';
+﻿import React, { type UIEvent, useRef } from 'react';
 
 import { type DataEntity } from 'loot-core/src/types/models/reports';
 import { type RuleConditionEntity } from 'loot-core/types/models/rule';
