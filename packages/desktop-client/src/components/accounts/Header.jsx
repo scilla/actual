@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+﻿import React, { useState, useRef } from 'react';
 import { useHotkeys } from 'react-hotkeys-hook';
 
 import { useLocalPref } from '../../hooks/useLocalPref';
