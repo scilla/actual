@@ -1,5 +1,4 @@
-// @ts-strict-ignore
-import React, { useState, useEffect, useRef } from 'react';
+﻿import React, { useState, useEffect, useRef } from 'react';
 import { useSelector } from 'react-redux';
 
 import { type State } from 'loot-core/src/client/state-types';
