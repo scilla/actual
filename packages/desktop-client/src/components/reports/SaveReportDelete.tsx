@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { theme } from '../../style/theme';
 import { Button } from '../common/Button2';
