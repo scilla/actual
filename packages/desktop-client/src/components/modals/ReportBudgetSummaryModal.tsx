@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 
 import { sheetForMonth } from 'loot-core/src/shared/months';
 import * as monthUtils from 'loot-core/src/shared/months';
